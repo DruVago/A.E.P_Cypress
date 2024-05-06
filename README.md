@@ -25,7 +25,7 @@
 
 Git clone is a more efficient way to obtain the repository as it retrieves the entire history and content with just one command.
 - In your desired folder open your terminal and type:
-- git clone https://github.com/DruVago/A.E.P_Cypress
+- git clone https://github.com/DruVago/A.E.P_Cypress.git
 
 ### Installing Cypress and Getting Started
 1. Install Cypress:
