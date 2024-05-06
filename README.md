@@ -1,4 +1,4 @@
-# LabClass
+# Automated EntryPass
 
 ### Node JS Setup and Installation
 1. Download NodeJS:
